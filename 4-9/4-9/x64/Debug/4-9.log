@@ -1,0 +1,22 @@
+﻿  4-9.c
+C:\Users\hanso\source\repos\studyC\4-9\4-9.c(7,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\hanso\source\repos\studyC\4-9\4-9.c(7,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\hanso\source\repos\studyC\4-9\4-9.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\hanso\source\repos\studyC\4-9\4-9.c(8,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\hanso\source\repos\studyC\4-9\4-9.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\hanso\source\repos\studyC\4-9\4-9.c(9,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\hanso\source\repos\studyC\4-9\4-9.c(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\hanso\source\repos\studyC\4-9\4-9.c(10,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\hanso\source\repos\studyC\4-9\4-9.c(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\hanso\source\repos\studyC\4-9\4-9.c(11,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+  4-9.vcxproj -> C:\Users\hanso\source\repos\studyC\4-9\x64\Debug\4-9.exe

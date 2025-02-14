@@ -1,0 +1,3 @@
+﻿  9-6.c
+C:\Users\hanso\source\repos\studyC\9-6\9-6.c(8,5): warning C4133: '=': 'int *'과(와) 'double *' 사이의 형식이 호환되지 않습니다.
+  9-6.vcxproj -> C:\Users\hanso\source\repos\studyC\9-6\x64\Debug\9-6.exe

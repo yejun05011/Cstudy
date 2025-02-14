@@ -1,0 +1,4 @@
+﻿  12-7.c
+C:\Users\hanso\source\repos\studyC\12-7\12-7.c(8,8): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\hanso\source\repos\studyC\12-7\12-7.c(8,8): warning C4024: 'fputs': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  12-7.vcxproj -> C:\Users\hanso\source\repos\studyC\12-7\x64\Debug\12-7.exe

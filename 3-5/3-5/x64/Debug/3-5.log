@@ -1,0 +1,3 @@
+﻿  3-5.c
+C:\Users\hanso\source\repos\studyC\3-5\3-5.c(4,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  3-5.vcxproj -> C:\Users\hanso\source\repos\studyC\3-5\x64\Debug\3-5.exe

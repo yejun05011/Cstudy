@@ -1,0 +1,14 @@
+﻿  15-1.c
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(11,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(11,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(12,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(12,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(12,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int **'입니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(12,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int **' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(13,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(13,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int **' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(13,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int ***'입니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(13,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int ***' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(13,9): warning C4477: 'printf' : 서식 문자열 '%12u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
+C:\Users\hanso\source\repos\studyC\15-1\15-1.c(13,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 3과(와) 충돌합니다.
+  15-1.vcxproj -> C:\Users\hanso\source\repos\studyC\15-1\x64\Debug\15-1.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanso\\source\\repos\\studyC\\2-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7982B0E2-E85D-46DF-99DC-688843B1276B}|2-3.vcxproj|C:\\Users\\hanso\\source\\repos\\studyC\\2-3\\2-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7982B0E2-E85D-46DF-99DC-688843B1276B}|2-3.vcxproj|solutionrelative:2-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2-3.c",
+              "DocumentMoniker": "C:\\Users\\hanso\\source\\repos\\studyC\\2-3\\2-3.c",
+              "RelativeDocumentMoniker": "2-3.c",
+              "ToolTip": "C:\\Users\\hanso\\source\\repos\\studyC\\2-3\\2-3.c",
+              "RelativeToolTip": "2-3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-26T08:50:30.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
